@@ -15,7 +15,7 @@ a {
   text-decoration: none;
 }
 body {
-  background-color: #f7f7f7;
+  background-color: $bodyBgColor;
   font-family: "Segoe UI", "Lucida Grande", Helvetica, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", Arial, sans-serif;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -24,7 +24,7 @@ body {
 body .blog {
   max-width: 1170px;
   min-height: 100vh;
-  background-color: #fff;
+  background-color: $mainBgColor;
   margin: 0 auto;
 }
 body .blog .content {
