@@ -69,4 +69,4 @@ theme: Hacker
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/blaketarter/test-hexo
+  repo: git@github.com:blaketarter/test-hexo.git
