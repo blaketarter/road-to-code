@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>The Road To Code</title>
+  
+  <link href="/road-to-code/atom.xml" rel="self"/>
+  
+  <link href="https://blaketarter.github.io/road-to-code/"/>
+  <updated>2016-09-01T01:52:58.000Z</updated>
+  <id>https://blaketarter.github.io/road-to-code/</id>
+  
+  <author>
+    <name>Blake Tarter</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Code</title>
+    <link href="https://blaketarter.github.io/road-to-code/2016/08/31/hello-code/"/>
+    <id>https://blaketarter.github.io/road-to-code/2016/08/31/hello-code/</id>
+    <published>2016-09-01T02:45:00.000Z</published>
+    <updated>2016-09-01T01:52:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hello-Code"><a href="#Hello-Code" class="headerlink" title="Hello Code!"></a>Hello Code!</h1><p>Hi there! Im Blake Tarter, I’m currently a developer working at CodeKoalas. One of my coworkers decided to convince me to do 100 Days of Code, and I figured “Well this is the perfect excuse to get me to try blogging out.”</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(<span class="string">'Hello World!'</span>);</div></pre></td></tr></table></figure>
+<h2 id="What-the-heck-is-this"><a href="#What-the-heck-is-this" class="headerlink" title="What the heck is this?"></a>What the heck is this?</h2><p>Short answer is I have no idea. And the long answer is just wait and see what happens.</p>
+<p>My goal with this blog is to keep me (and potentially others) accountable publically on the 100 Days of Code challenge. We’ll see how it goes!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Hello-Code&quot;&gt;&lt;a href=&quot;#Hello-Code&quot; class=&quot;headerlink&quot; title=&quot;Hello Code!&quot;&gt;&lt;/a&gt;Hello Code!&lt;/h1&gt;&lt;p&gt;Hi there! Im Blake Tarter, I’m curre
+    
+    </summary>
+    
+      <category term="Introduction" scheme="https://blaketarter.github.io/road-to-code/categories/Introduction/"/>
+    
+    
+      <category term="Hello World" scheme="https://blaketarter.github.io/road-to-code/tags/Hello-World/"/>
+    
+  </entry>
+  
+</feed>
