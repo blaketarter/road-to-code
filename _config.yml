@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: The Road To Code
 subtitle:
 description:
-author: John Doe
+author: Blake Tarter
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://blaketarter.github.io/test-hexo
-root: /test-hexo/
+url: https://blaketarter.github.io/road-to-code
+root: /road-to-code/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -69,4 +69,4 @@ theme: Hacker
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:blaketarter/test-hexo.git
+  repo: git@github.com:blaketarter/road-to-code.git
