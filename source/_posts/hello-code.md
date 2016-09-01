@@ -2,6 +2,7 @@
 title: Hello Code
 date: 2016/8/31 21:45:00
 author: Blake Tarter
+authorId: bt
 categories:
  - Introduction
 tags:
