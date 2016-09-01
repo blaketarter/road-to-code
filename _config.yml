@@ -70,3 +70,11 @@ theme: Hacker
 deploy:
   type: git
   repo: git@github.com:blaketarter/road-to-code.git
+
+# Feed
+## Docs: https://github.com/hexojs/hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
